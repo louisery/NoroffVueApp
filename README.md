@@ -1,5 +1,5 @@
 # NoroffVueApp
-JavaScript Frameworks, Module Assignment 2 - Vue.js
+JavaScript Frameworks, Module Assignment 2 - 
 Vue.js application that connects to an api
 
 # How to run the project
